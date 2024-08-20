@@ -8,14 +8,14 @@ GreenHeart Lightweight is a streamlined version of the original GreenHeart syste
 
 * **Essential Sensors:** Incorporates a reduced set of sensors (temperature, humidity, light intensity, infrared and soil moisture) suitable for drone-based monitoring.
 * **Data Acquisition and Processing:** Collects and processes sensor data on-board the drone to reduce data transmission.
-* **Wireless Communication:** Uses efficient wireless protocols (Etecx / LoRa / BLE) to transmit data to a ground station or cloud-based platform.
+* **Wireless Communication:** Uses efficient wireless protocols ( [Etecx](https://github.com/VaysiDevelopmentCenter/Etecx) / LoRa / BLE) to transmit data to a ground station or cloud-based platform.
 * **Integration with Arduino Ecosystem:** Leverages the Arduino ecosystem for hardware compatibility and software development.
 
 **Hardware Requirements**
 
-* Arduino compatible board (e.g., Arduino Uno, Nano, Mega)
-* Sensor modules (e.g., temperature, humidity, light intensity, soil moisture, Infrared)
-* Wireless communication module (LoRa / BLE / Etecx)
+* Arduino compatible board ( Arduino Uno, Nano, Mega)
+* Sensor modules (temperature, humidity, light intensity, soil moisture, Infrared)
+* Wireless communication module (LoRa / BLE / [Etecx](https://github.com/VaysiDevelopmentCenter/Etecx))
 * Power supply (e.g., LiPo battery)
 
 1. **Launch drone:** Deploy the drone equipped with the GreenHeart Lightweight system.
