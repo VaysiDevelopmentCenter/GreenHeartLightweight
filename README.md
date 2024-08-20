@@ -1,3 +1,5 @@
+![image (2)](https://github.com/user-attachments/assets/f3c9b6bd-a3f8-4229-b311-d8f3801a5454)
+
 ## GreenHeart Lightweight: A Compact, Efficient Agricultural Monitoring System
 
 GreenHeart Lightweight is a streamlined version of the original GreenHeart system, designed specifically for Arduino drones. It provides essential agricultural monitoring capabilities in a lightweight and cost-effective package.
@@ -36,3 +38,5 @@ If you encounter issues, refer to the documentation for the individual component
 **Contributing**
 
 VDC welcomes contributions to the GreenHeart Lightweight project. If you have improvements, bug fixes, or new features, please submit a pull request to the project repository.
+
+![303854458-bc867c22-c331-471e-a1b1-b2904b2cfd4a](https://github.com/user-attachments/assets/8fc448b8-f4b2-4190-991c-325f87e84f1d)
